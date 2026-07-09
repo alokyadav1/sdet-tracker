@@ -1,11 +1,8 @@
 # SDET Progress Tracker — 8-Month Plan (32 Weeks)
 
-![Overall](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/<your-username>/<your-repo>/main/badges/overall.json)
-![Theory](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/<your-username>/<your-repo>/main/badges/theory.json)
-![Automation](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/<your-username>/<your-repo>/main/badges/automation.json)
-
-> Replace `<your-username>/<your-repo>` in the three badge URLs above with your actual
-> GitHub path once this is pushed — see [HOW_TO_USE.md](HOW_TO_USE.md) step 3.
+![Overall](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/alokyadav1/sdet-tracker/main/badges/overall.json)
+![Theory](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/alokyadav1/sdet-tracker/main/badges/theory.json)
+![Automation](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/alokyadav1/sdet-tracker/main/badges/automation.json)
 
 This repo tracks execution of the 8-month (32-week) Senior/4-5yr-SDET-calibrated
 learning plan, split into two independent, checkbox-based tracks:
