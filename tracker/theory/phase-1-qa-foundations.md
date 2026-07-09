@@ -8,7 +8,7 @@ _Phase 1 of 8 — Theory Track_
 
 ## Week 01 — SDLC/STLC as Decision Frameworks, Not Trivia
 
-- [ ] **Mon** — Study SDLC models (Waterfall, Agile, V-model). Write one paragraph on which model your company actually runs, where it deviates from the textbook version, and why.
+- [x] **Mon** — Study SDLC models (Waterfall, Agile, V-model). Write one paragraph on which model your company actually runs, where it deviates from the textbook version, and why.
 - [ ] **Tue** — Study STLC phases. Map them onto your company's real process; identify one gap and how you'd fix it.
 - [ ] **Wed** — Study the 7 testing principles. For each, find a real instance where your team violated it — and what it cost.
 - [ ] **Thu** — Record a 3-minute answer: "Walk me through how you'd design a test strategy for a new feature with a 2-week deadline." No notes.
