@@ -1,0 +1,43 @@
+name: "🤖 Automation Task"
+description: Track a single hands-on/build task from the SDET tracker (optional — use instead of, or alongside, the markdown checklists)
+title: "[Automation] Week __ — "
+labels: ["automation"]
+body:
+  - type: input
+    id: week
+    attributes:
+      label: Week number
+      placeholder: "e.g. Week 7"
+    validations:
+      required: true
+  - type: input
+    id: phase
+    attributes:
+      label: Phase
+      placeholder: "e.g. Phase 2 — API Testing at Senior Depth"
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: Task description
+      description: Copy the exact task text from tracker/automation/<phase-slug>.md
+    validations:
+      required: true
+  - type: dropdown
+    id: day
+    attributes:
+      label: Planned day
+      options: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+    validations:
+      required: false
+  - type: input
+    id: repo_link
+    attributes:
+      label: Related commit / PR / repo link
+      placeholder: "https://github.com/..."
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / blockers
+      description: Anything worth remembering — what tripped you up, what to revisit
