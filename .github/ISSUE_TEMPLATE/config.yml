@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📖 How this tracker works
-    url: https://github.com/<your-username>/<your-repo>/blob/main/HOW_TO_USE.md
+    url: https://github.com/alokyadav1/sdet-tracker/blob/main/HOW_TO_USE.md
     about: Setup and daily-use instructions for this tracker
