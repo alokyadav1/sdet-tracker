@@ -12,7 +12,7 @@ _Phase 1 of 8 — Theory Track_
 - [x] **Tue** — Study STLC phases. Map them onto your company's real process; identify one gap and how you'd fix it.
 - [x] **Wed** — Study the 7 testing principles. For each, find a real instance where your team violated it — and what it cost.
 - [x] **Thu** — Record a 3-minute answer: "Walk me through how you'd design a test strategy for a new feature with a 2-week deadline." No notes.
-- [ ] **Fri** — Study V&V, static vs dynamic testing. Research what "shift-left" means in practice and where your team could shift left today.
+- [x] **Fri** — Study V&V, static vs dynamic testing. Research what "shift-left" means in practice and where your team could shift left today.
 - [ ] **Sat (2h)** — Write a full Test Strategy document (scope, risks, entry/exit criteria, environments, tooling, ownership) for a hypothetical checkout feature.
 - [ ] **Sun (1h)** — Review. List 5 questions where a mid-level and senior answer differ — draft the senior version of each.
 
