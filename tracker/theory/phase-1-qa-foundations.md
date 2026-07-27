@@ -18,7 +18,7 @@ _Phase 1 of 8 — Theory Track_
 
 ## Week 02 — Test Design Techniques as Tools You Choose Between
 
-- [ ] **Mon** — Equivalence Partitioning on a login form, then argue when EP alone is insufficient.
+- [x] **Mon** — Equivalence Partitioning on a login form, then argue when EP alone is insufficient.
 - [ ] **Tue** — Boundary Value Analysis on an age-eligibility field; combine with EP and compare coverage.
 - [ ] **Wed** — Decision Table Testing for a multi-condition discount engine (stacking rules).
 - [ ] **Thu** — State Transition Testing for an order-status workflow, including invalid transitions.
