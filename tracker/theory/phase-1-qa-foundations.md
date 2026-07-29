@@ -19,8 +19,8 @@ _Phase 1 of 8 — Theory Track_
 ## Week 02 — Test Design Techniques as Tools You Choose Between
 
 - [x] **Mon** — Equivalence Partitioning on a login form, then argue when EP alone is insufficient.
-- [ ] **Tue** — Boundary Value Analysis on an age-eligibility field; combine with EP and compare coverage.
-- [ ] **Wed** — Decision Table Testing for a multi-condition discount engine (stacking rules).
+- [x] **Tue** — Boundary Value Analysis on an age-eligibility field; combine with EP and compare coverage.
+- [x] **Wed** — Decision Table Testing for a multi-condition discount engine (stacking rules).
 - [ ] **Thu** — State Transition Testing for an order-status workflow, including invalid transitions.
 - [ ] **Fri** — Exploratory testing — session-based test management; write how you'd justify its ROI to a skeptical manager.
 - [ ] **Sat (2h)** — Apply 3 techniques to one real feature; write a one-paragraph justification of technique selection.
