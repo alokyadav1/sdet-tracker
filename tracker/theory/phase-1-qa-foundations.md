@@ -21,8 +21,8 @@ _Phase 1 of 8 — Theory Track_
 - [x] **Mon** — Equivalence Partitioning on a login form, then argue when EP alone is insufficient.
 - [x] **Tue** — Boundary Value Analysis on an age-eligibility field; combine with EP and compare coverage.
 - [x] **Wed** — Decision Table Testing for a multi-condition discount engine (stacking rules).
-- [ ] **Thu** — State Transition Testing for an order-status workflow, including invalid transitions.
-- [ ] **Fri** — Exploratory testing — session-based test management; write how you'd justify its ROI to a skeptical manager.
+- [x] **Thu** — State Transition Testing for an order-status workflow, including invalid transitions.
+- [x] **Fri** — Exploratory testing — session-based test management; write how you'd justify its ROI to a skeptical manager.
 - [ ] **Sat (2h)** — Apply 3 techniques to one real feature; write a one-paragraph justification of technique selection.
 - [ ] **Sun (1h)** — Record a 3-minute answer to "how do you decide which test design technique fits a given feature?"
 
