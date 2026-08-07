@@ -28,10 +28,10 @@ _Phase 1 of 8 — Theory Track_
 
 ## Week 03 — Risk, Requirements, and Defect Lifecycle as Strategy Tools
 
-- [ ] **Mon** — Defect lifecycle — severity vs priority, with a real example where they diverge.
-- [ ] **Tue** — Risk-based testing — build a real risk matrix for a payment feature; rank coverage by risk score.
-- [ ] **Wed** — Requirement analysis — rewrite 3 vague acceptance criteria from real tickets into testable ones.
-- [ ] **Thu** — Record: "How do you prioritize testing when you can't test everything before release?"
-- [ ] **Fri** — Test strategy vs test plan — identify which your team is actually missing.
+- [x] **Mon** — Defect lifecycle — severity vs priority, with a real example where they diverge.
+- [x] **Tue** — Risk-based testing — build a real risk matrix for a payment feature; rank coverage by risk score.
+- [x] **Wed** — Requirement analysis — rewrite 3 vague acceptance criteria from real tickets into testable ones.
+- [x] **Thu** — Record: "How do you prioritize testing when you can't test everything before release?"
+- [x] **Fri** — Test strategy vs test plan — identify which your team is actually missing.
 - [ ] **Sat (2h)** — Write a risk-based test plan for a payment-gateway feature, including what you're consciously choosing not to test and why.
-- [ ] **Sun (1h)** — Consolidate Weeks 1-3 into a "QA Fundamentals — Senior Framing" reference doc.
+- [x] **Sun (1h)** — Consolidate Weeks 1-3 into a "QA Fundamentals — Senior Framing" reference doc.
