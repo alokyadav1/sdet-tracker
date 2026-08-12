@@ -8,9 +8,9 @@ _Phase 2 of 8 — Theory Track_
 
 ## Week 04 — HTTP & REST, Including the Parts Junior Candidates Skip
 
-- [ ] **Mon** — HTTP methods deep dive — PUT vs PATCH, including partial-update edge cases.
-- [ ] **Tue** — Status codes beyond the common ones — 409, 422, 429, and when each is correct.
-- [ ] **Wed** — Headers, content types, cookies, sessions — session-based vs token-based auth in test design.
+- [x] **Mon** — HTTP methods deep dive — PUT vs PATCH, including partial-update edge cases.
+- [x] **Tue** — Status codes beyond the common ones — 409, 422, 429, and when each is correct.
+- [x] **Wed** — Headers, content types, cookies, sessions — session-based vs token-based auth in test design.
 - [ ] **Thu** — CORS — then explain how you'd test for a CORS misconfiguration deliberately.
 - [ ] **Fri** — REST principles — statelessness, idempotency, plus HATEOAS.
 - [ ] **Sun (1h)** — Record: "What makes an API well-designed from a testability standpoint?" 
