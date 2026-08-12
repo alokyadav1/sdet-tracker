@@ -21,7 +21,7 @@ _Phase 2 of 8 — Theory Track_
 
 ## Week 06 — Automating API Tests: Production-Grade, Not Tutorial-Grade
 
-- [ ] **Sun (1h)** — Review and push. Write: "if this suite ran with 10x parallel workers, what would break?" 
+- [ ] **Sun (1h)** — Review and push. Write: "if this suite ran with 10x parallel workers, what would break?"
 
 ## Week 07 — Schema, Contract Testing (Implemented), and GraphQL
 
