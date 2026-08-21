@@ -12,11 +12,11 @@ _Phase 2 of 8 — Automation Track_
 
 ## Week 05 — Postman as a Design Tool, Not Just a Request Sender
 
-- [ ] **Mon** — Collections & environments for multi-environment use.
-- [ ] **Tue** — Chaining requests — realistic multi-step flow (create → update → verify → delete).
-- [ ] **Wed** — Scripting — pre-request scripts, pm.test, dynamic variable generation for test data isolation.
-- [ ] **Thu** — Assertions — status, body, full JSON schema validation.
-- [ ] **Fri** — Auth — Basic, Bearer, OAuth2, plus token refresh flow testing.
+- [x] **Mon** — Collections & environments for multi-environment use.
+- [x] **Tue** — Chaining requests — realistic multi-step flow (create → update → verify → delete).
+- [x] **Wed** — Scripting — pre-request scripts, pm.test, dynamic variable generation for test data isolation.
+- [x] **Thu** — Assertions — status, body, full JSON schema validation.
+- [x] **Fri** — Auth — Basic, Bearer, OAuth2, plus token refresh flow testing.
 - [ ] **Sat (2h)** — Build a full collection: 15+ requests, CRUD + auth + negative cases + token refresh.
 
 ## Week 06 — Automating API Tests: Production-Grade, Not Tutorial-Grade
